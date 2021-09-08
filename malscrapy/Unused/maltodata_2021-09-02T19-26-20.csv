@@ -1,0 +1,151 @@
+image,ranking,rating,season,title
+,#60,8.63,"[<Selector xpath='//span[@class=""information season""]/a/text()' data='Summer 2018'>]",Shingeki no Kyojin Season 3
+,#57,8.65,"[<Selector xpath='//span[@class=""information season""]/a/text()' data='Spring 2007'>]",Tengen Toppa Gurren Lagann
+,#59,8.64,"[<Selector xpath='//span[@class=""information season""]/a/text()' data='Spring 2017'>]",Natsume Yuujinchou Roku
+,#61,8.63,,Suzumiya Haruhi no Shoushitsu
+,#58,8.65,"[<Selector xpath='//span[@class=""information season""]/a/text()' data='Winter 2018'>]",Violet Evergarden
+,#62,8.63,"[<Selector xpath='//span[@class=""information season""]/a/text()' data='Fall 2006'>]",Death Note
+,#52,8.67,"[<Selector xpath='//span[@class=""information season""]/a/text()' data='Spring 2020'>]",Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen
+,#63,8.62,"[<Selector xpath='//span[@class=""information season""]/a/text()' data='Spring 2014'>]",Ping Pong the Animation
+,#56,8.65,,Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai
+,#54,8.66,,Howl no Ugoku Shiro
+,#51,8.67,"[<Selector xpath='//span[@class=""information season""]/a/text()' data='Fall 2015'>]",Haikyuu!! Second Season
+,#55,8.66,"[<Selector xpath='//span[@class=""information season""]/a/text()' data='Winter 2012'>]",Natsume Yuujinchou Shi
+,#150,8.41,"[<Selector xpath='//span[@class=""information season""]/a/text()' data='Fall 2016'>]",3-gatsu no Lion
+,#53,8.66,"[<Selector xpath='//span[@class=""information season""]/a/text()' data='Winter 2009'>]",Hajime no Ippo: New Challenger
+,#49,8.68,"[<Selector xpath='//span[@class=""information season""]/a/text()' data='Fall 2005'>]",Mushishi
+,#120,8.48,,Holo no Graffiti
+,#119,8.48,,Zoku Owarimonogatari
+,#48,8.69,"[<Selector xpath='//span[@class=""information season""]/a/text()' data='Fall 2014'>]",Shigatsu wa Kimi no Uso
+,#46,8.69,"[<Selector xpath='//span[@class=""information season""]/a/text()' data='Summer 1999'>]",Great Teacher Onizuka
+,#45,8.70,,Made in Abyss Movie 3: Fukaki Tamashii no Reimei
+,#50,8.68,"[<Selector xpath='//span[@class=""information season""]/a/text()' data='Fall 1980'>]",Ashita no Joe 2
+,#42,8.71,"[<Selector xpath='//span[@class=""information season""]/a/text()' data='Spring 2014'>]",Mushishi Zoku Shou
+,#47,8.69,,Mononoke Hime
+,#43,8.71,"[<Selector xpath='//span[@class=""information season""]/a/text()' data='Fall 2006'>]",Code Geass: Hangyaku no Lelouch
+,#38,8.74,"[<Selector xpath='//span[@class=""information season""]/a/text()' data='Fall 2020'>]",Jujutsu Kaisen (TV)
+,#40,8.72,,Rurouni Kenshin: Meiji Kenkaku Romantan - Tsuioku-hen
+,#44,8.70,"[<Selector xpath='//span[@class=""information season""]/a/text()' data='Summer 2017'>]",Made in Abyss
+,#36,8.74,,Evangelion: 3.0+1.0 Thrice Upon a Time
+,#41,8.72,"[<Selector xpath='//span[@class=""information season""]/a/text()' data='Summer 2019'>]",Vinland Saga
+,#39,8.73,,Kimetsu no Yaiba Movie: Mugen Ressha-hen
+,#34,8.76,"[<Selector xpath='//span[@class=""information season""]/a/text()' data='Winter 2017'>]",Shouwa Genroku Rakugo Shinjuu: Sukeroku Futatabi-hen
+,#33,8.76,,Fate/stay night Movie: Heaven's Feel - III. Spring Song
+,#37,8.74,"[<Selector xpath='//span[@class=""information season""]/a/text()' data='Fall 2000'>]",Hajime no Ippo
+,#30,8.80,,Sen to Chihiro no Kamikakushi
+,#35,8.75,"[<Selector xpath='//span[@class=""information season""]/a/text()' data='Fall 2014'>]",Mushishi Zoku Shou 2nd Season
+,#28,8.80,"[<Selector xpath='//span[@class=""information season""]/a/text()' data='Spring 2004'>]",Monster
+,#27,8.81,,Kizumonogatari III: Reiketsu-hen
+,#32,8.77,"[<Selector xpath='//span[@class=""information season""]/a/text()' data='Spring 1998'>]",Cowboy Bebop
+,#23,8.87,,Violet Evergarden Movie
+,#31,8.78,"[<Selector xpath='//span[@class=""information season""]/a/text()' data='Summer 2013'>]",Monogatari Series: Second Season
+,#29,8.80,"[<Selector xpath='//span[@class=""information season""]/a/text()' data='Spring 2021'>]",Odd Taxi
+,#21,8.89,,Shiguang Dailiren
+,#24,8.82,"[<Selector xpath='//span[@class=""information season""]/a/text()' data='Winter 2018'>]",Gintama.: Shirogane no Tamashii-hen
+,#26,8.81,"[<Selector xpath='//span[@class=""information season""]/a/text()' data='Fall 2016'>]",Haikyuu!!: Karasuno Koukou vs. Shiratorizawa Gakuen Koukou
+,#25,8.82,"[<Selector xpath='//span[@class=""information season""]/a/text()' data='Winter 2019'>]",Mob Psycho 100 II
+,#18,8.91,"[<Selector xpath='//span[@class=""information season""]/a/text()' data='Summer 2017'>]",Owarimonogatari 2nd Season
+,#19,8.91,"[<Selector xpath='//span[@class=""information season""]/a/text()' data='Spring 2008'>]",Code Geass: Hangyaku no Lelouch R2
+,#22,8.88,"[<Selector xpath='//span[@class=""information season""]/a/text()' data='Summer 2018'>]",Gintama.: Shirogane no Tamashii-hen - Kouhan-sen
+,#20,8.90,,Kimi no Na wa.
+,#17,8.93,"[<Selector xpath='//span[@class=""information season""]/a/text()' data='Winter 2021'>]",Shingeki no Kyojin: The Final Season
+,#16,8.94,,Gintama: The Final
+,#15,8.94,,Gintama Movie 2: Kanketsu-hen - Yorozuya yo Eien Nare
+,#14,8.95,"[<Selector xpath='//span[@class=""information season""]/a/text()' data='Spring 2006'>]",Gintama
+,#13,8.95,"[<Selector xpath='//span[@class=""information season""]/a/text()' data='Fall 2008'>]",Clannad: After Story
+,#11,8.98,"[<Selector xpath='//span[@class=""information season""]/a/text()' data='Winter 2017'>]",Gintama.
+,#10,8.98,"[<Selector xpath='//span[@class=""information season""]/a/text()' data='Fall 2017'>]",3-gatsu no Lion 2nd Season
+,#6,9.06,"[<Selector xpath='//span[@class=""information season""]/a/text()' data='Spring 2011'>]",Gintama'
+,#7,9.06,"[<Selector xpath='//span[@class=""information season""]/a/text()' data='Fall 2011'>]",Hunter x Hunter (2011)
+,#12,8.97,,Koe no Katachi
+,#9,9.04,"[<Selector xpath='//span[@class=""information season""]/a/text()' data='Fall 2012'>]",Gintama': Enchousen
+,#4,9.09,"[<Selector xpath='//span[@class=""information season""]/a/text()' data='Spring 2015'>]",Gintama°
+,#8,9.05,,Ginga Eiyuu Densetsu
+,#3,9.10,"[<Selector xpath='//span[@class=""information season""]/a/text()' data='Spring 2011'>]",Steins;Gate
+,#147,8.41,,Shingeki no Kyojin: Kuinaki Sentaku
+,#2,9.10,"[<Selector xpath='//span[@class=""information season""]/a/text()' data='Spring 2019'>]",Shingeki no Kyojin Season 3 Part 2
+,#1,9.16,"[<Selector xpath='//span[@class=""information season""]/a/text()' data='Spring 2009'>]",Fullmetal Alchemist: Brotherhood
+,#148,8.41,"[<Selector xpath='//span[@class=""information season""]/a/text()' data='Winter 2021'>]",Tensei shitara Slime Datta Ken 2nd Season
+,#5,9.08,"[<Selector xpath='//span[@class=""information season""]/a/text()' data='Spring 2021'>]",Fruits Basket: The Final
+,#142,8.42,"[<Selector xpath='//span[@class=""information season""]/a/text()' data='Fall 2018'>]",Kaze ga Tsuyoku Fuiteiru
+,#149,8.41,"[<Selector xpath='//span[@class=""information season""]/a/text()' data='Summer 2020'>]",Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan
+,#141,8.42,,Kara no Kyoukai 7: Satsujin Kousatsu (Go)
+,#146,8.41,"[<Selector xpath='//span[@class=""information season""]/a/text()' data='Summer 2020'>]",Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season
+,#140,8.42,"[<Selector xpath='//span[@class=""information season""]/a/text()' data='Summer 2018'>]",Grand Blue
+,#145,8.41,"[<Selector xpath='//span[@class=""information season""]/a/text()' data='Winter 2021'>]",Non Non Biyori Nonstop
+,#138,8.43,"[<Selector xpath='//span[@class=""information season""]/a/text()' data='Spring 2020'>]",Kingdom 3rd Season
+,#139,8.43,"[<Selector xpath='//span[@class=""information season""]/a/text()' data='Winter 2009'>]",Major S5
+,#144,8.42,,Natsume Yuujinchou Movie: Utsusemi ni Musubu
+,#143,8.42,"[<Selector xpath='//span[@class=""information season""]/a/text()' data='Summer 2021'>]",Kobayashi-san Chi no Maid Dragon S
+,#135,8.43,"[<Selector xpath='//span[@class=""information season""]/a/text()' data='Summer 2016'>]",Saiki Kusuo no Ψ-nan
+,#136,8.43,,Sayonara no Asa ni Yakusoku no Hana wo Kazarou
+,#131,8.45,,Mahou Shoujo Madoka★Magica Movie 3: Hangyaku no Monogatari
+,#130,8.45,"[<Selector xpath='//span[@class=""information season""]/a/text()' data='Fall 2020'>]",Golden Kamuy 3rd Season
+,#134,8.44,"[<Selector xpath='//span[@class=""information season""]/a/text()' data='Summer 2007'>]",Mononoke
+,#132,8.45,,Mo Dao Zu Shi: Xian Yun Pian
+,#129,8.45,,Gintama: Yorinuki Gintama-san on Theater 2D
+,#137,8.43,"[<Selector xpath='//span[@class=""information season""]/a/text()' data='Winter 2015'>]",JoJo no Kimyou na Bouken Part 3: Stardust Crusaders 2nd Season
+,#127,8.45,"[<Selector xpath='//span[@class=""information season""]/a/text()' data='Winter 2018'>]",Saiki Kusuo no Ψ-nan 2
+,#133,8.44,"[<Selector xpath='//span[@class=""information season""]/a/text()' data='Fall 2002'>]",Koukaku Kidoutai: Stand Alone Complex
+,#126,8.45,,Mushishi Zoku Shou: Odoro no Michi
+,#125,8.46,"[<Selector xpath='//span[@class=""information season""]/a/text()' data='Fall 2015'>]",Owarimonogatari
+,#123,8.47,,Steins;Gate Movie: Fuka Ryouiki no Déjà vu
+,#128,8.45,"[<Selector xpath='//span[@class=""information season""]/a/text()' data='Fall 1992'>]",Yuu☆Yuu☆Hakusho
+,#118,8.48,,Saenai Heroine no Sodatekata Fine
+,#122,8.47,"[<Selector xpath='//span[@class=""information season""]/a/text()' data='Spring 2014'>]",Haikyuu!!
+,#117,8.49,"[<Selector xpath='//span[@class=""information season""]/a/text()' data='Spring 2017'>]",Shingeki no Kyojin Season 2
+,#116,8.49,"[<Selector xpath='//span[@class=""information season""]/a/text()' data='Spring 2006'>]",Nana
+,#124,8.46,"[<Selector xpath='//span[@class=""information season""]/a/text()' data='Spring 2011'>]",Nichijou
+,#114,8.49,,Kono Subarashii Sekai ni Shukufuku wo! Movie: Kurenai Densetsu
+,#110,8.51,"[<Selector xpath='//span[@class=""information season""]/a/text()' data='Spring 2021'>]",Vivy: Fluorite Eye's Song
+,#121,8.48,"[<Selector xpath='//span[@class=""information season""]/a/text()' data='Summer 2016'>]",Mob Psycho 100
+,#112,8.50,"[<Selector xpath='//span[@class=""information season""]/a/text()' data='Spring 2016'>]",JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai
+,#115,8.49,,Mo Dao Zu Shi
+,#109,8.51,"[<Selector xpath='//span[@class=""information season""]/a/text()' data='Spring 2012'>]",Uchuu Kyoudai
+,#106,8.51,"[<Selector xpath='//span[@class=""information season""]/a/text()' data='Spring 2010'>]",Rainbow: Nisha Rokubou no Shichinin
+,#113,8.49,"[<Selector xpath='//span[@class=""information season""]/a/text()' data='Fall 2019'>]",Chihayafuru 3
+,#108,8.51,"[<Selector xpath='//span[@class=""information season""]/a/text()' data='Spring 2018'>]",Steins;Gate 0
+,#111,8.50,"[<Selector xpath='//span[@class=""information season""]/a/text()' data='Spring 2004'>]",Samurai Champloo
+,#103,8.51,,Hotaru no Haka
+,#101,8.51,"[<Selector xpath='//span[@class=""information season""]/a/text()' data='Summer 2018'>]",Banana Fish
+,#107,8.51,"[<Selector xpath='//span[@class=""information season""]/a/text()' data='Spring 2013'>]",Shingeki no Kyojin
+,#100,8.51,"[<Selector xpath='//span[@class=""information season""]/a/text()' data='Winter 2008'>]",Aria the Origination
+,#105,8.51,,Perfect Blue
+,#99,8.52,,Gintama Movie 1: Shinyaku Benizakura-hen
+,#104,8.51,"[<Selector xpath='//span[@class=""information season""]/a/text()' data='Fall 1997'>]",Kenpuu Denki Berserk
+,#97,8.52,,Tian Guan Ci Fu Special
+,#102,8.51,,Gintama: The Semi-Final
+,#95,8.53,"[<Selector xpath='//span[@class=""information season""]/a/text()' data='Fall 2015'>]",One Punch Man
+,#94,8.53,"[<Selector xpath='//span[@class=""information season""]/a/text()' data='Winter 2004'>]",Koukaku Kidoutai: Stand Alone Complex 2nd GIG
+,#92,8.54,"[<Selector xpath='//span[@class=""information season""]/a/text()' data='Fall 2020'>]",Haikyuu!!: To the Top 2nd Season
+,#90,8.54,"[<Selector xpath='//span[@class=""information season""]/a/text()' data='Winter 2021'>]",Yuru Camp△ Season 2
+,#91,8.54,"[<Selector xpath='//span[@class=""information season""]/a/text()' data='Spring 2021'>]",Fumetsu no Anata e
+,#96,8.53,"[<Selector xpath='//span[@class=""information season""]/a/text()' data='Fall 1993'>]",Slam Dunk
+,#98,8.52,"[<Selector xpath='//span[@class=""information season""]/a/text()' data='Winter 2016'>]",Ansatsu Kyoushitsu 2nd Season
+,#87,8.55,"[<Selector xpath='//span[@class=""information season""]/a/text()' data='Winter 2018'>]",Sora yori mo Tooi Basho
+,#93,8.53,"[<Selector xpath='//span[@class=""information season""]/a/text()' data='Fall 2017'>]",Gintama.: Porori-hen
+,#86,8.55,,Kara no Kyoukai 5: Mujun Rasen
+,#84,8.56,"[<Selector xpath='//span[@class=""information season""]/a/text()' data='Fall 2012'>]",Bakuman. 3rd Season
+,#83,8.56,"[<Selector xpath='//span[@class=""information season""]/a/text()' data='Winter 2009'>]",Zoku Natsume Yuujinchou
+,#80,8.57,,Josee to Tora to Sakana-tachi
+,#81,8.57,,Tengen Toppa Gurren Lagann Movie 2: Lagann-hen
+,#89,8.54,"[<Selector xpath='//span[@class=""information season""]/a/text()' data='Winter 2021'>]",Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2
+,#88,8.54,,Neon Genesis Evangelion: The End of Evangelion
+,#79,8.58,,Kimi no Suizou wo Tabetai
+,#85,8.56,,Fate/stay night Movie: Heaven's Feel - II. Lost Butterfly
+,#77,8.58,"[<Selector xpath='//span[@class=""information season""]/a/text()' data='Spring 2020'>]",Fruits Basket 2nd Season
+,#82,8.56,,Mushishi: Hihamukage
+,#76,8.58,"[<Selector xpath='//span[@class=""information season""]/a/text()' data='Spring 2012'>]",Fate/Zero 2nd Season
+,#75,8.58,"[<Selector xpath='//span[@class=""information season""]/a/text()' data='Winter 2019'>]",Yakusoku no Neverland
+,#73,8.58,"[<Selector xpath='//span[@class=""information season""]/a/text()' data='Summer 2011'>]",Natsume Yuujinchou San
+,#71,8.59,"[<Selector xpath='//span[@class=""information season""]/a/text()' data='Spring 2010'>]",Yojouhan Shinwa Taikei
+,#72,8.58,"[<Selector xpath='//span[@class=""information season""]/a/text()' data='Fall 2016'>]",Natsume Yuujinchou Go
+,#70,8.59,"[<Selector xpath='//span[@class=""information season""]/a/text()' data='Winter 2016'>]",Shouwa Genroku Rakugo Shinjuu
+,#78,8.58,"[<Selector xpath='//span[@class=""information season""]/a/text()' data='Spring 2019'>]",Kimetsu no Yaiba
+,#68,8.59,"[<Selector xpath='//span[@class=""information season""]/a/text()' data='Fall 2018'>]",JoJo no Kimyou na Bouken Part 5: Ougon no Kaze
+,#67,8.59,"[<Selector xpath='//span[@class=""information season""]/a/text()' data='Fall 2013'>]",Hajime no Ippo: Rising
+,#66,8.60,,Kizumonogatari II: Nekketsu-hen
+,#74,8.58,"[<Selector xpath='//span[@class=""information season""]/a/text()' data='Fall 1999'>]",One Piece
+,#64,8.61,,Mushishi Zoku Shou: Suzu no Shizuku
+,#69,8.59,,Mo Dao Zu Shi: Wanjie Pian
+,#65,8.61,,Ookami Kodomo no Ame to Yuki
